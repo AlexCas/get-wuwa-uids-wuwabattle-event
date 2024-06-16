@@ -1,5 +1,5 @@
 # Setup
-Para ejecutar el script simplemente en una terminar con python ejecutar py get-uuids.py
+Para ejecutar el script simplemente en una terminal con python ejecutar py get-uuids.py
 
 # Justificacion
 Wuthering Waves realizo un [concurso](https://x.com/Wuthering_Waves/status/1799026649679433798) donde publicas un video y agregas tu id de jugador. Supuestamente regalarian 2k de la moneda premium al hacerlo. Lo que me hizo preguntarme como harian para poder regalar eso?
@@ -12,7 +12,7 @@ Me di a la tarea de hacer un script para tiktok unicamente y ver si me era posib
 
 Me apoye de la [API no Oficial de Tiktok](https://github.com/davidteather/TikTok-Api) sin embargo, para el caso de uso que requeria contaba con ciertas limitaciones al momento de traer los videos relacionados al hashtag asi que me di a la tarea de modificar las funciones del modulo. Dichas modificaciones se encuentran en la raiz de este proyecto.
 
-Al realizar dichas modificaciones logre obtener la informacion cruda del video de tiktok y con expresiones regulares obtener el uid del jugador que lo habia posteado.
+Al realizar las modificaciones logre obtener la informacion cruda del video de tiktok y con expresiones regulares obtener el uid del jugador que lo habia posteado.
 
 TODO
 
