@@ -2,7 +2,7 @@
 Para ejecutar el script simplemente en una terminar con python ejecutar py get-uuids.py
 
 # Justificacion
-Wuthering Waves realizo un concurso donde publicas un video y agregas tu id de jugador. Supuestamente regalarian 2k de la moneda premium al hacerlo. Lo que me hizo preguntarme como harian para poder regalar eso?
+Wuthering Waves realizo un [concurso](https://x.com/Wuthering_Waves/status/1799026649679433798) donde publicas un video y agregas tu id de jugador. Supuestamente regalarian 2k de la moneda premium al hacerlo. Lo que me hizo preguntarme como harian para poder regalar eso?
 
 Evidentemente no pondran a un sujeto a registrar id por id en cada video. Tomando en cuenta que la entrada es por YT Shorts, X y Tiktok es demasiada informacion. Asi que asumi que usarian algun metodo/bot para obtener los ids.
 
